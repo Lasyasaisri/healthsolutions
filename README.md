@@ -20,9 +20,6 @@ As we advance, our commitment to providing free and accessible healthcare remain
 Future Plans
 In the future, Health Solutions aims to broaden its impact by incorporating an extensive range of diseases into its database. Our vision includes facilitating direct and affordable medication purchases through our platform, streamlining the healthcare journey for our users. By continually expanding our offerings, we aspire to be a go-to resource for users seeking reliable health insights and cost-effective medication solutions, reaffirming our commitment to advancing accessible and affordable healthcare for all.
 
-Feel free to explore our platform, and if you have any inquiries or need assistance, don't hesitate to reach out. Your well-being is our priority at Health Solutions.
-
-
 
 
 
